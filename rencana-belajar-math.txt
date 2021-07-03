@@ -1,7 +1,8 @@
 RENCANA BELAJAR MATEMATIKA
 
 -BELAJAR INTEGRAL LUAS
+ *pake materi pdf quip
 -NGULANG PELAJARAN YANG UDAH DIPELAJARI KEMAREN 
-  *latihan soal integral aljabar dulu
+ *yang integral trigonometri
 -LATIHAN SOAL
  *pake latsol pdf quip
