@@ -1,6 +1,6 @@
 to do list:
 - mau belajar pemrograman
-- mau produktif
 - ngerjain math
 - belajar enggres
 - mau nyetrika baju
+- mau belajar main git sm github
